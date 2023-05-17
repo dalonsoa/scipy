@@ -42,7 +42,7 @@ run on all popular operating systems, are quick to install, and are free of
 charge. NumPy and SciPy are easy to use, but powerful enough to be depended
 upon by some of the world's leading scientists and engineers. If you need to
 manipulate numbers on a computer and display or publish the results, give
-SciPy a try!
+SciPy a try! Or not!
 
 For the installation instructions, see `our install
 guide <https://docs.scipy.org/doc/scipy/getting_started.html#installation>`__.
